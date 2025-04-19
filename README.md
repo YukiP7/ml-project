@@ -1,8 +1,15 @@
 ## END-TO-END ML PROJECT 
 
-- Create python environment (venv)
-- add gitignore file
-- create setup.py (responsible of creating ml model as a package) ---> building an application as package 
-- create requirements.txt
+### Project step-by-step guide 
 
-- after creating __init__.py in src folder , it will behave as a package and can be imported 
+1. Project Setup
+    - Create python environment (venv)
+    - add gitignore file
+    - create setup.py (responsible of creating ml model as a package) ---> building an application as package 
+    - create requirements.txt
+
+    - after creating __init__.py in src folder , it will behave as a package and can be imported 
+
+2. Work on Components
+    - Create a components folder in src and initialize it with __init__.py , to perform it as packages .
+    - Do data ingestion , transformation and further operations in it .
