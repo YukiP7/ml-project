@@ -13,3 +13,7 @@
 2. Work on Components
     - Create a components folder in src and initialize it with __init__.py , to perform it as packages .
     - Do data ingestion , transformation and further operations in it .
+
+3. Initialize logger and exception file .
+    - exception handling 
+    - logging the all activities .

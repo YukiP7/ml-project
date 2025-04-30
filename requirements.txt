@@ -5,4 +5,7 @@ matplotlib
 imblearn
 scikit-learn
 flask
--e .
+ipykernel
+catboost
+xgboost
+# -e .
