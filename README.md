@@ -17,3 +17,7 @@
 3. Initialize logger and exception file .
     - exception handling 
     - logging the all activities .
+
+4. Perform EDA and Train the model 
+
+5. Data Ingestion : how to read file and fetching the data from outside or local environment to system
