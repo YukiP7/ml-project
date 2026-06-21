@@ -8,4 +8,3 @@ flask
 ipykernel
 catboost
 xgboost
--e .
