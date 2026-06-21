@@ -6,5 +6,5 @@ imblearn
 scikit-learn
 flask
 ipykernel
-catboost
-xgboost
+catboost==1.2.5
+xgboost==2.1.1
